@@ -1,0 +1,9 @@
+xixihaha
+
+Look at the files again
+
+Home directory: cd ~
+Make a directory: mkdir lpthw
+Goto the directory: cd lpthw
+Run a text file in that directory: cat fileName.txt
+Run a python file: python ex1.py

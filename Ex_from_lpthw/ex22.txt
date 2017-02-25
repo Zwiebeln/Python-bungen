@@ -1,0 +1,17 @@
+print #System.out.println();
+%d, %r, %s
+# oder '''
+""" # makes empty line before graph
+print "~(=.=)~"*20
+\t #tab
+\\ # \
+\' # '
+\r # carriage return
+from sys import argv #ex13
+
+ #raise questions to users
+ prompt= '>'
+ variable = raw_input(prompt)
+
+target=open(filename, 'w') #read is default mode, 'a' is append and modify
+target.close() #should be done after using the opened file
